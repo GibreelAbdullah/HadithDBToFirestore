@@ -16,3 +16,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+#Local DB file, because size is too big
+hadith.db
